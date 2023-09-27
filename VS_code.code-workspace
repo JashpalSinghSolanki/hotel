@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"complex": "cpp",
+			"random": "cpp",
+			"list": "cpp",
+			"array": "cpp",
+			"deque": "cpp",
+			"forward_list": "cpp",
+			"vector": "cpp",
+			"stack": "cpp",
+			"bitset": "cpp",
+			"initializer_list": "cpp",
+			"regex": "cpp",
+			"utility": "cpp",
+			"valarray": "cpp",
+			"xhash": "cpp",
+			"xstring": "cpp",
+			"xtree": "cpp",
+			"xutility": "cpp",
+			"string": "cpp",
+			"atomic": "cpp",
+			"ios": "cpp",
+			"system_error": "cpp",
+			"xiosbase": "cpp",
+			"queue": "cpp",
+			"type_traits": "cpp",
+			"cmath": "cpp",
+			"map": "cpp",
+			"unordered_map": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "Project2"
+	}
+}
